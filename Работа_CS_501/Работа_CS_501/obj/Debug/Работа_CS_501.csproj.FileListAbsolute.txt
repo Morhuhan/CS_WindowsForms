@@ -1,0 +1,13 @@
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\bin\Debug\Работа_CS_501.exe.config
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\bin\Debug\Работа_CS_501.exe
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\bin\Debug\Работа_CS_501.pdb
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.csproj.AssemblyReference.cache
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.csproj.SuggestedBindingRedirects.cache
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.Properties.Resources.resources
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.csproj.GenerateResource.cache
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.csproj.CoreCompileInputs.cache
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.exe
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.pdb
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.frmMain.resources
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.frmShow.resources
+C:\Users\radio\Labs\C#\Работа_CS_501\Работа_CS_501\obj\Debug\Работа_CS_501.Dialogue.resources
